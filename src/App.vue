@@ -15,10 +15,14 @@ export default {
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  padding:20px;
-  color: #2c3e50;
+
 }
+
+
+@import '../node_modules/bulma/css/bulma.css';
+@import './assets/styles.css';
+
+
+
+
 </style>

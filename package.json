@@ -10,13 +10,15 @@
   },
   "dependencies": {
     "antd-vue": "0.0.1",
+    "bulma": "^0.4.0",
     "everyone": "^1.2.7",
     "firebase": "^3.7.2",
     "v-antd": "^1.1.8",
-    "vee-validate": "^2.0.0-beta.17",
+    "vee-validate": "^2.0.0-beta.25",
     "vue": "^2.2.4",
     "vue-ant": "^0.1.0",
     "vue-antd": "^0.2.9",
+    "vue-bulma": "0.0.35",
     "vue-form-generator": "^2.0.0-beta5",
     "vue-router": "^2.2.0",
     "vuefire": "^1.4.0"
